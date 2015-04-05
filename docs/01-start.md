@@ -18,6 +18,7 @@
 
 上面展示了一个基本的html文档的内容。
 
+
 ## HTML的部三个重要tag
 
 * html
@@ -33,24 +34,24 @@
     body 是html中的正文，描述了这个页面的结构
 
 
- ## 如何工作
+## 如何工作
 
- ### 书籍推荐
+### 书籍推荐
 
- * [HTTP权威指南](http://www.ituring.com.cn/book/844)
+* [HTTP权威指南](http://www.ituring.com.cn/book/844)
 
 
- ### 请求
+### 请求
 
 命令行   | GET /index.php HTTP/1.0
 --------|-----------------
 请求首部 | Host: www.domain.com...
 
 
- ### 响应
+### 响应
 
- * [HTTP状态码](http://zh.wikipedia.org/zh/HTTP%E7%8A%B6%E6%80%81%E7%A0%81)
+* [HTTP状态码](http://zh.wikipedia.org/zh/HTTP%E7%8A%B6%E6%80%81%E7%A0%81)
 
- * 读取资源
+* 读取资源
 
- * 执行脚本
+* 执行脚本
