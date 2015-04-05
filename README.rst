@@ -2,4 +2,4 @@
 
 ## Index
 
-* 00 test <test.md>
+* 00 `test <test.md>`
