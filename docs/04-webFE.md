@@ -22,13 +22,18 @@ PC端前端就是在PC浏览器里面去浏览网页所用到的技术主要工�
 * 移动端主要用png格式多些
 
 ## [学习常见的html标签(平时用的比较多的标签)](http://www.w3school.com.cn/html/html_basic.asp)
+
 ### 块级元素
-* div、p、ul、table、dl、form、h1、h2、h3、h4、h5、h6、hr、fieldset###块级元素
+
+*  div、p、ul、table、dl、form、h1、h2、h3、h4、h5、h6、hr、fieldset
+
 ### 内敛元素
-* span、a、label、em、i、br、img、input、strong
+
+*  span、a、label、em、i、br、img、input、strong
 
 * 把这些标签一个个自己敲一遍，看看在网页里面是长成啥样的？知道各个标签的具体含义(语义化)
   思考:同一个布局即可以用div实现，又可以用p实现，那到底是用div还是用p？
+
 
 ## [学习css基础知识点](http://www.w3school.com.cn/css/css_syntax.asp)
 * 理解盒模型(很重要的知识点)
@@ -37,13 +42,15 @@ PC端前端就是在PC浏览器里面去浏览网页所用到的技术主要工�
 * 理解元素和内敛元素相互转化display
 * [参考学习资料](http://www.blueidea.com/tech/site/2006/3358_4.asp)	
 * 建议看下  **css那些事儿**  书籍里面讲解很清楚(看第1部分 CSS入门篇、第2部分 CSS页面布局篇、第17章 谈谈清除浮动)
-* ** css权威指南 ** 
+* **css权威指南** 
 
 ## [网页布局实战](http://www.baidu.com)
+
 要求：
-1. 利用之前学习的html＋css技术实现山寨版本百度(纯静态页面)
-2. 必须手写代码，严禁用DW生成代码
-3. 要求至少兼容ie8。
+
+1.  利用之前学习的html＋css技术实现山寨版本百度(纯静态页面)
+2.  必须手写代码，严禁用DW生成代码
+3.  要求至少兼容ie8。
 
 
 ## [移动网页开发](https://github.com/jtyjty99999/mobileTech)
