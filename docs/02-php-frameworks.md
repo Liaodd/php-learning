@@ -73,3 +73,7 @@ Watch 147 Star 1437 Fork 375 // 数据截止至：2015-04-07 14:25:39
 ![Kohana Framework Cascading Filesystem](https://kohanaframework.org/3.3/guide-media/kohana/cascading_filesystem.png)
 
 简单的说，系统会自动从上到下的合并你的所用同名的目录和覆盖同名的文件，提升灵活性。
+
+## 最后的一些话
+
+我觉得，选择框架的过程中，如果有开发者对某个框架最熟悉，就可以选择他，如果都不熟，就选个最火的。
