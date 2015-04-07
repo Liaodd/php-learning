@@ -3,7 +3,7 @@
 ```html
 <html>
     <head>
-        <title>sample page<title>
+        <title>sample page</title>
         <link href="http://path/to/your/style/file.css" media="all" rel="stylesheet" />
     </head>
     <body>
