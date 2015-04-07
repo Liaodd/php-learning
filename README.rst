@@ -9,4 +9,4 @@ Index
 * 03 框架模块介绍
 * 04 Javascript
 * 05 requireJs
-* 06 backbonejs
+* 06 `backbonejs <https://github.com/the5fire/backbonejs-learning-note>`_
