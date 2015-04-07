@@ -1,13 +1,13 @@
 # web前端快速入门
 
 
-web前端技术涉及的知识量很大很广（水很深），不可能一下就掌握住，这里主要说下我的学习经验，方便快速入门。
+> web前端技术涉及的知识量很大很广（水很深），不可能一下就掌握住，这里主要说下我的学习经验，方便快速入门。
 当然也就是入门，后续的需要你们大量做项目去掌握它。目前web前端主要分两块：PC端＋移动端。
 PC端前端就是在PC浏览器里面去浏览网页所用到的技术主要工作是切图(div+css)+js网页特效＋前端表单验证＋后端ajax交互。
 移动端主要是用html5+css3技术实现的网页，在手机终端中用的比较多，用到的技术和工作流程大致和Pc 端是一样的。只不过，用到了最新的技术h5+css3。可以不用管IE系列浏览器。PC端受浏览器版本和IE系列浏览器的束缚，不能大规模的用新技术。所以目前主流的做法PC端一套代码，然后移动端又是一套代码。其实PC端大部分时间都在做兼容性工作，虽然移动端可以用最新的技术，但目前的移动端浏览android 和 IOS两大平台系统中，啃还是有的～～～～
 
 
-可以看到：只要把切图(div+css)＋js学会了。你的前端基本上就入门了，然后在学习下当下流行的js框架，走几个项目就ok了。
+> 可以看到：只要把切图(div+css)＋js学会了。你的前端基本上就入门了，然后在学习下当下流行的js框架，走几个项目就ok了。
 接下来说切图了，有人说切图很简单，用ps切片工具，把想要图片切下来就可以了，没错，其实切图是一门艺术，切得好，网站性能好，切得不好，网站就很慢。这就需要根据实际情况，实际分析了。
 
 
@@ -36,25 +36,25 @@ PC端前端就是在PC浏览器里面去浏览网页所用到的技术主要工�
 * 理解定位position（relative,absolute）
 * 理解元素和内敛元素相互转化display
 * [参考学习资料](http://www.blueidea.com/tech/site/2006/3358_4.asp)	
-* 建议看下<<css那些事儿>>书籍里面讲解很清楚(看第1部分 CSS入门篇、第2部分 CSS页面布局篇、第17章 谈谈清除浮动)
-* css权威指南
+* 建议看下  **css那些事儿**  书籍里面讲解很清楚(看第1部分 CSS入门篇、第2部分 CSS页面布局篇、第17章 谈谈清除浮动)
+* ** css权威指南 ** 
 
 ## [网页布局实战](http://www.baidu.com)
 要求：
-1.利用之前学习的html＋css技术实现山寨版本百度(纯静态页面)
-2.必须手写代码，严禁用DW生成代码
-3.要求至少兼容ie8。
+1. 利用之前学习的html＋css技术实现山寨版本百度(纯静态页面)
+2. 必须手写代码，严禁用DW生成代码
+3. 要求至少兼容ie8。
 
 
 ## [移动网页开发](https://github.com/jtyjty99999/mobileTech)
 
-1.[学习下常见的html5新标签](http://www.w3school.com.cn/html5/index.asp)
+1. [学习下常见的html5新标签](http://www.w3school.com.cn/html5/index.asp)
 	header、footer、nav、menu、aside、section、article	
-2.[学习下常用的css3属性](http://www.w3school.com.cn/css3/index.asp)
+2. [学习下常用的css3属性](http://www.w3school.com.cn/css3/index.asp)
 	border-radius、shadow、RGBA、box-shadow、
 	transform、transition、animation、
 	box-sizing、background-size
-3.[学习下viewport](http://davidbcalhoun.com/2010/viewport-metatag/)
+3. [学习下viewport](http://davidbcalhoun.com/2010/viewport-metatag/)
 
 ## 移动网页布局练习
   练习:绑定银行卡送礼页面.html
