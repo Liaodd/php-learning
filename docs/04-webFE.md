@@ -32,7 +32,8 @@ PC端前端就是在PC浏览器里面去浏览网页所用到的技术主要工�
 *  span、a、label、em、i、br、img、input、strong
 
 * 把这些标签一个个自己敲一遍，看看在网页里面是长成啥样的？知道各个标签的具体含义(语义化)
-  思考:同一个布局即可以用div实现，又可以用p实现，那到底是用div还是用p？
+
+* 思考:同一个布局即可以用div实现，又可以用p实现，那到底是用div还是用p？
 
 
 ## [学习css基础知识点](http://www.w3school.com.cn/css/css_syntax.asp)
@@ -40,9 +41,10 @@ PC端前端就是在PC浏览器里面去浏览网页所用到的技术主要工�
 * 理解什么叫浮动及如何清除浮动
 * 理解定位position（relative,absolute）
 * 理解元素和内敛元素相互转化display
+
 * [参考学习资料](http://www.blueidea.com/tech/site/2006/3358_4.asp)	
-* 建议看下  **css那些事儿**  书籍里面讲解很清楚(看第1部分 CSS入门篇、第2部分 CSS页面布局篇、第17章 谈谈清除浮动)
-* **css权威指南** 
+1.  建议看下  **css那些事儿**  书籍里面讲解很清楚(看第1部分 CSS入门篇、第2部分 CSS页面布局篇、第17章 谈谈清除浮动)
+2.  **css权威指南** 
 
 ## [网页布局实战](http://www.baidu.com)
 
