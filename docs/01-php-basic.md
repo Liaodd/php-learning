@@ -81,4 +81,6 @@ typedef union _zvalue_value {
 
 PHP的`array`可以放入任何类型的数据，其本质是一个`hashtable`，在深入PHP内核中有[说明](http://www.php-internals.com/book/?p=chapt03/03-01-01-hashtable)
 
-看前面提到的PHP弱类型中，联合体`zvalue_value`就有HashTable这个类型。
+看前面提到的PHP弱类型中，联合体`zvalue_value`就有HashTable这个类型。里面的各个值是一个链表
+
+**注意**：PHP中的数字下标也只是一个key而已，并不是数组中真实的存放顺序，使用foreach遍历能够看到他们的顺序完全是根据你插入的顺序而定，而不是数字的大小（从0~xxx)
